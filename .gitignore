@@ -1,4 +1,8 @@
 .idea
 *~
 node_modules
+<<<<<<< HEAD
 lib/openxum-core
+=======
+lib/openxum-core
+>>>>>>> 512c4c14c5e32f8af73ba7777fed1ea39e15dce9
